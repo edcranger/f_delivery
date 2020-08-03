@@ -1,0 +1,12 @@
+{
+  "name": "f_delivery",
+  "version": "0.0.1",
+  "description": "Deliver App",
+  "author": "Edison Ocampo",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^2.1.1",
+    "@capacitor/cli": "^1.0.0",
+    "@capacitor/core": "^1.0.0"
+  }
+}
